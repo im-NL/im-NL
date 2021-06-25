@@ -1,1 +1,1 @@
-can't be bothered to spend time on a readme 
+lack of ability to make a decent readme
